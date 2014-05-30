@@ -464,6 +464,7 @@ AssetGraph смотрит на проекты как на набор задач 
 [grunt-contrib-compress]: https://www.npmjs.org/package/grunt-contrib-compress
 [gulp-zip]: https://github.com/sindresorhus/gulp-zip
 [grunt-zopfli]: https://github.com/mathiasbynens/grunt-zopfli
+[gulp-zopfli]: https://www.npmjs.org/package/gulp-zopfli/
 [grunt-reduce]: https://github.com/Munter/grunt-reduce
 [grunt-ngmin]: https://npmjs.org/package/grunt-ngmin
 [grunt-react]: https://npmjs.org/package/grunt-react
