@@ -80,7 +80,7 @@ ImageOptim.
 #### Grunt
 
 *   [grunt-responsive-images][grunt-responsive-images] - используйте вместе с 
-[Imager.js][Imager.js], элементом `<picture>` или полифилл 
+[Imager.js][Imager.js], элементом `<picture>` или полифил 
 [picturefill][picturefill].
 *   [grunt-clowncar][grunt-clowncar]
 
